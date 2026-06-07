@@ -1,0 +1,6 @@
+{
+  "name": "TBM Music",
+  "description": "Futuristic ultra-premium offline audio player with smart music organization, advanced audio engine, 32-band equalizer, offline lyrics, and AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
